@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Expedia">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\collinbc\My Documents\Courses\SQA\Lab4-AdvancedUnitTesting-Code\Expedia.sln">
+</Property><Property Name="Date" Value="Friday, March 18, 2011">
+</Property><Property Name="Time" Value="15:37 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Expedia" Source="Expedia.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Expedia" Source="Expedia.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ExpediaTest" Source="ExpediaTest\ExpediaTest.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ExpediaTest" Source="ExpediaTest\ExpediaTest.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Expedia.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Expedia.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Expedia" Source="Expedia.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ExpediaTest" Source="ExpediaTest\ExpediaTest.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
